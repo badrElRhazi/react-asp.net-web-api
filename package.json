@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "login": "^0.8.0",
+    "react-facebook": "^9.0.12"
+  },
+  "devDependencies": {
+    "run-script-os": "^1.1.6"
+  }
+}
